@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: Compute サービスの新機能について説明します。 
+---
+= 新機能
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Compute サービスの新機能について説明します。
+
+
+
+== 2020 年 12 月 7 日
+
+
+
+=== Cloud Manager と Spot の間のナビゲーション
+
+Cloud Manager と Spot の間の移動が簡単になりました。
+
+Spot の新しい「 * ストレージ運用 * 」セクションでは、 Cloud Manager に直接移動できます。作業が完了したら、 Cloud Manager の * Compute * タブから Spot に戻ることができます。
+
+
+
+== 2020 年 10 月 18 日
+
+
+
+=== コンピューティングサービスの概要
+
+を活用して https://spot.io/products/cloud-analyzer/["Spot の Cloud Analyzer の略"^]Cloud Manager では、クラウドコンピューティング関連のコストを高水準で分析し、コスト削減の可能性を特定できるようになりました。この情報は、 Cloud Manager の * Compute * サービスから入手できます。
+
+link:concept-compute.html["コンピューティングサービスの詳細については、こちらをご覧ください"]。
+
+image:screenshot_compute_dashboard.gif["Cloud Manager のコスト分析ページを示すスクリーンショット。"]

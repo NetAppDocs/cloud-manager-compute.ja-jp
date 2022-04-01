@@ -1,0 +1,15 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: View a cost analysis of your cloud compute spending and identify potential savings right from Cloud Manager. 
+summary: Cloud Manager から、クラウドコンピューティング関連のコスト分析を表示し、削減可能なコストを特定できます。 
+---
+= コンピューティング関連のドキュメント
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

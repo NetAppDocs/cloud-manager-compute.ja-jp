@@ -1,0 +1,55 @@
+---
+settings:
+  name: Compute
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ja-jp,us-en,zh-cn,ko-kr
+sidebar:
+  entries:
+  - title: Cloud Manager のすべてのドキュメント
+    url: https://docs.netapp.com/us-en/cloud-manager-family
+  - title: ドキュメントを計算します
+    url: "/index.html"
+  - title: リリースノート
+    url: "/whats-new.html"
+  - title: はじめに
+    entries:
+    - title: コンピューティングサービスの詳細については、こちらをご覧ください
+      url: "/concept-compute.html"
+    - title: AWS アカウントを接続します
+      url: "/task-getting-started-compute.html"
+  - title: コンピューティングコストを分析
+    url: "/task-analyze-costs.html"
+  - title: 知識とサポート
+    entries:
+    - title: サポートに登録します
+      url: "/task-support-registration.html"
+    - title: ヘルプを表示します
+      url: "/task-get-help.html"
+  - title: 法的通知
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: はじめに
+    links:
+    - title: コンピューティングサービスの詳細については、こちらをご覧ください
+      url: concept-compute.html
+    - title: AWS アカウントを接続します
+      url: task-getting-started-compute.html
+  - title: コンピューティングサービスを使用する
+    links:
+    - title: コンピューティングコストを分析
+      url: task-analyze-costs.html
+  - title: ブログコミュニティ
+    links:
+    - title: ネットアップコミュニティ
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Cloud Central のブログです
+      url: https://cloud.netapp.com/blog
+    - title: クラウドに関する Web セミナー
+      url: https://cloud.netapp.com/events
+product-family: {}
