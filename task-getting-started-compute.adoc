@@ -6,6 +6,7 @@ summary: 任意の Cloud Analyzer からクラウドコンピューティング�
 ---
 = Cloud Analyzer を AWS アカウントに接続します
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
