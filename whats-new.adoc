@@ -37,6 +37,6 @@ Spot の新しい「 * ストレージ運用 * 」セクションでは、 Cloud
 
 を活用して https://spot.io/products/cloud-analyzer/["Spot の Cloud Analyzer の略"^]Cloud Manager では、クラウドコンピューティング関連のコストを高水準で分析し、コスト削減の可能性を特定できるようになりました。この情報は、 Cloud Manager の * Compute * サービスから入手できます。
 
-link:concept-compute.html["コンピューティングサービスの詳細については、こちらをご覧ください"]。
+https://docs.netapp.com/us-en/cloud-manager-compute/concept-compute.html["コンピューティングサービスの詳細については、こちらをご覧ください"]。
 
-image:screenshot_compute_dashboard.gif["Cloud Manager のコスト分析ページを示すスクリーンショット。"]
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/media/screenshot_compute_dashboard.gif["Cloud Manager のコスト分析ページを示すスクリーンショット。"]
